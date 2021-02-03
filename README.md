@@ -1,7 +1,7 @@
 ### Hi, I'm Stas -  Bracked 👋
 
 
-## I'm a Student, Dreamer,
+## I'm a Student and Dreamer
 
 - 📖 I’m currently learning everything
 - 🏁 2021 Goals: Learn js(ts) and react
